@@ -75,3 +75,6 @@ end
 group :production do
     gem 'pg', '~> 1.4', '>= 1.4.1'
 end
+
+# Gemfile for bootstrap version 4, as I would like to use jumbotron c;
+gem 'bootstrap', '~> 4.6', '>= 4.6.1'
